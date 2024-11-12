@@ -1,0 +1,1 @@
+CUDA, or Compute Unified Device Architecture, is a parallel computing platform and application programming interface (API) that allows developers to use GPUs for general-purpose processing. CUDA is a proprietary Nvidia product that was first released in 2007.
